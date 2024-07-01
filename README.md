@@ -8,3 +8,16 @@
 ![overview](./figs/overview.png)
 
 World models are receiving increasing attention in autonomous driving for their ability to predict potential future scenarios. In this paper, we present BEVWorld, a novel approach that tokenizes multimodal sensor inputs into a unified and compact Bird's Eye View (BEV) latent space for environment modeling. The world model consists of two parts: the multi-modal tokenizer and the latent BEV sequence diffusion model. The multi-modal tokenizer first encodes multi-modality information and the decoder is able to reconstruct the latent BEV tokens into LiDAR and image observations by ray-casting rendering in a self-supervised manner. Then the latent BEV sequence diffusion model predicts future scenarios given action tokens as conditions. Experiments demonstrate the effectiveness of BEVWorld in autonomous driving tasks, showcasing its capability in generating future scenes and benefiting downstream tasks such as perception and motion prediction.
+
+
+## Demo
+
+### Multi-view video and Lidar generation
+
+<img src="./figs/demo1_img.gif" width="600"/><img src="./figs/demo1_point.gif" width="320"/>
+
+<img src="./figs/demo2_img.gif" width="600"/><img src="./figs/demo2_point.gif" width="320"/>
+
+## Citation
+
+If you find this project helpful, please consider citing the following paper:
