@@ -12,9 +12,11 @@ World models are receiving increasing attention in autonomous driving for their 
 
 ## Demo
 
-### Multi-view video and Lidar generation
+### Scene 1
 
 <img src="./figs/demo1_img.gif" width="600"/><img src="./figs/demo1_point.gif" width="320"/>
+
+### Scene 2
 
 <img src="./figs/demo2_img.gif" width="600"/><img src="./figs/demo2_point.gif" width="320"/>
 
