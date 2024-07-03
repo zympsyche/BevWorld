@@ -1,8 +1,11 @@
 # BEVWorld: A Multimodal World Model for Autonomous Driving via Unified BEV Latent Space
-> BEVWorld: A Multimodal World Model for Autonomous Driving via Unified BEV Latent Space
 
-> [Yumeng Zhang], [Shi Gong], [Kaixin Xiong], [Xiaoqing Ye], [Xiao Tan], [Fan Wang], [Jizhou Huang], [Hua Wu], [Haifeng Wang]
 
+> Yumeng Zhang, Shi Gong, Kaixin Xiong, Xiaoqing Ye&#8224;, Xiao Tan, Fan Wang, Jizhou Huang&#8224;, Hua Wu, Haifeng Wang
+>
+> Baidu Inc.
+>
+> <sup>&#8224;</sup> Corresponding author
 
 ## Overview
 ![overview](./figs/overview.png)
@@ -19,6 +22,10 @@ World models are receiving increasing attention in autonomous driving for their 
 ### Scene 2
 
 <img src="./figs/demo2_img.gif" width="600"/><img src="./figs/demo2_point.gif" width="320"/>
+
+## Contact
+If you have any questions or suggestions about this repo, please feel free to contact us {zhangyumeng04,gongshi,yexiaoqing,huangjizhou01}@baidu.com
+
 
 ## Citation
 
