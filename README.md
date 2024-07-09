@@ -30,3 +30,11 @@ If you have any questions or suggestions about this repo, please feel free to co
 ## Citation
 
 If you find this project helpful, please consider citing the following paper:
+```
+@article{zhang2024bevworld,
+      title={BEVWorld: A Multimodal World Model for Autonomous Driving via Unified BEV Latent Space}, 
+      author={Yumeng, Zhang and Shi, Gong and Kaixin, Xiong and Xiaoqing, Ye and Xiao, Tan and Fan, Wang and Jizhou, Huang and Hua, Wu and Haifeng, Wang},
+      journal={arXiv preprint arXiv:2407.05679},
+      year={2024},
+}
+```
